@@ -206,6 +206,10 @@ PRODUCT_PACKAGES += \
     com.android.nfc_extras \
     Tag
 
+# OPlus dummy services
+PRODUCT_PACKAGES += \
+    vendor.oplus.hardware.performance-service
+
 # Overlays
 $(call inherit-product, hardware/oplus/overlay/qssi/qssi.mk)
 
