@@ -113,7 +113,8 @@ PRODUCT_PACKAGES += \
 
 # Doze
 PRODUCT_PACKAGES += \
-    OplusDoze
+    OplusDoze \
+    OplusDozeResCommon
 
 # DRM
 PRODUCT_PACKAGES += \
