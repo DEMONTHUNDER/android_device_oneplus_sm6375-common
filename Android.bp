@@ -4,7 +4,6 @@
 //
 
 soong_namespace {
-
 }
 
 install_symlink {
